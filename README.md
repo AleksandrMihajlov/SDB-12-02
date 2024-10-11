@@ -69,8 +69,10 @@ sudo /usr/local/mysql/bin/mysql -u sys_temp -p Sakila < /Users/aleksandrmihajlov
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/1.3.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/1.4.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/1.5.png)  
-![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/1.6.png)  
-  
+![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/1.6.png)    
+
+</details>
+
 ### Задание 2  
   
 ![alt text](https://github.com/AleksandrMihajlov/SDB-12-02/blob/main/2.png)
